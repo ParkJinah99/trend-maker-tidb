@@ -26,4 +26,4 @@
 ## Frontend Repository
 The frontend for this project is available at the following repository:
 
-[Frontend Repository Link]([link](https://github.com/ParkJinah99/trend-maker-frontend-tidb))
+[Frontend Repository Link]([https://github.com/ParkJinah99/trend-maker-frontend-tidb])
