@@ -21,3 +21,9 @@
 5. **Brand Recommendations:** TiDB’s vector search identifies similar brands, which are then used by Generative AI to produce branding suggestions (names, slogans, colors, and logos).
 6. **Complete Marketing Package:** Users receive a comprehensive suite of tools, from trend analysis to branding elements.
 7. **Dashboard Visualization:** The platform visualizes trends through clustered queries, time-series analysis, country composition, and top trend categories.
+
+
+## Frontend Repository
+The frontend for this project is available at the following repository:
+
+[Frontend Repository Link]([link](https://github.com/ParkJinah99/trend-maker-frontend-tidb))
