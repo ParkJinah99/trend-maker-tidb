@@ -1,0 +1,30 @@
+{
+    "united states": {
+        "gl": "us",
+        "geo": "US"
+    },    
+    "united kingdom": {
+        "gl": "uk",
+        "geo": "GB"
+    },
+    "canada": {
+        "gl": "ca",
+        "geo": "CA"
+    },
+    "australia": {
+        "gl": "au",
+        "geo": "AU"
+    },
+    "ireland": {
+        "gl": "ie",
+        "geo": "IE"
+    },
+    "singapore": {
+        "gl": "sg",
+        "geo": "SG"
+    },
+    "new zealand": {
+        "gl": "nz",
+        "geo": "NZ"
+    }
+}

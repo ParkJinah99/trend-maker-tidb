@@ -1,0 +1,1156 @@
+{
+    "ComparedBreakdownByRegion": [
+        {
+            "Location": "Adelaide",
+            "baking": 14,
+            "cake": 78,
+            "celebrations": 2,
+            "custom cakes": 0,
+            "desserts": 6
+        },
+        {
+            "Location": "Auckland",
+            "baking": 18,
+            "cake": 77,
+            "celebrations": 1,
+            "custom cakes": 0,
+            "desserts": 4
+        },
+        {
+            "Location": "Birmingham",
+            "baking": 11,
+            "cake": 76,
+            "celebrations": 1,
+            "custom cakes": 0,
+            "desserts": 12
+        },
+        {
+            "Location": "Brisbane",
+            "baking": 16,
+            "cake": 77,
+            "celebrations": 2,
+            "custom cakes": 0,
+            "desserts": 5
+        },
+        {
+            "Location": "Columbus",
+            "baking": 19,
+            "cake": 76,
+            "celebrations": 0,
+            "custom cakes": 0,
+            "desserts": 5
+        },
+        {
+            "Location": "Homagama",
+            "baking": 3,
+            "cake": 97,
+            "celebrations": 0,
+            "custom cakes": 0,
+            "desserts": 0
+        },
+        {
+            "Location": "Houston",
+            "baking": 17,
+            "cake": 78,
+            "celebrations": 0,
+            "custom cakes": 0,
+            "desserts": 5
+        },
+        {
+            "Location": "Melbourne",
+            "baking": 19,
+            "cake": 72,
+            "celebrations": 3,
+            "custom cakes": 0,
+            "desserts": 6
+        },
+        {
+            "Location": "Navi Mumbai",
+            "baking": 5,
+            "cake": 93,
+            "celebrations": 1,
+            "custom cakes": 0,
+            "desserts": 1
+        },
+        {
+            "Location": "Perth",
+            "baking": 12,
+            "cake": 77,
+            "celebrations": 6,
+            "custom cakes": 0,
+            "desserts": 5
+        },
+        {
+            "Location": "Seattle",
+            "baking": 25,
+            "cake": 69,
+            "celebrations": 0,
+            "custom cakes": 0,
+            "desserts": 6
+        },
+        {
+            "Location": "Singapore",
+            "baking": 17,
+            "cake": 80,
+            "celebrations": 0,
+            "custom cakes": 0,
+            "desserts": 3
+        },
+        {
+            "Location": "Sydney",
+            "baking": 14,
+            "cake": 79,
+            "celebrations": 2,
+            "custom cakes": 0,
+            "desserts": 5
+        }
+    ],
+    "InterestByRegion": [
+        {
+            "Location": "New Orleans",
+            "Extracted Value": 100
+        },
+        {
+            "Location": "Dallas",
+            "Extracted Value": 83
+        },
+        {
+            "Location": "Columbus",
+            "Extracted Value": 84
+        },
+        {
+            "Location": "Frisco",
+            "Extracted Value": 81
+        },
+        {
+            "Location": "Cypress",
+            "Extracted Value": 80
+        },
+        {
+            "Location": "Virginia Beach",
+            "Extracted Value": 86
+        },
+        {
+            "Location": "Seattle",
+            "Extracted Value": 78
+        },
+        {
+            "Location": "Houston",
+            "Extracted Value": 81
+        },
+        {
+            "Location": "San Antonio",
+            "Extracted Value": 78
+        },
+        {
+            "Location": "Cypress",
+            "Extracted Value": 77
+        }
+    ],
+    "InterestOverTime": [
+        {
+            "Date": "Aug 13u2009u2013u200926, 2023",
+            "Timestamp": "1692489600",
+            "cake": 60,
+            "baking": 20,
+            "desserts": 5,
+            "celebrations": 1,
+            "custom cakes": 14
+        },
+        {
+            "Date": "Aug 20u2009u2013u200926, 2023",
+            "Timestamp": "1692489600",
+            "cake": 67,
+            "baking": 19,
+            "desserts": 5,
+            "celebrations": 1,
+            "custom cakes": 0
+        },
+        {
+            "Date": "Aug 27u2009u2013u2009Sep 2, 2023",
+            "Timestamp": "1693094400",
+            "cake": 70,
+            "baking": 19,
+            "desserts": 6,
+            "celebrations": 1,
+            "custom cakes": 0
+        },
+        {
+            "Date": "Sep 3u2009u2013u20099, 2023",
+            "Timestamp": "1693699200",
+            "cake": 72,
+            "baking": 20,
+            "desserts": 6,
+            "celebrations": 1,
+            "custom cakes": 0
+        },
+        {
+            "Date": "Sep 10u2009u2013u200916, 2023",
+            "Timestamp": "1694304000",
+            "cake": 73,
+            "baking": 22,
+            "desserts": 6,
+            "celebrations": 1,
+            "custom cakes": 0
+        },
+        {
+            "Date": "Sep 17u2009u2013u200923, 2023",
+            "Timestamp": "1694908800",
+            "cake": 75,
+            "baking": 21,
+            "desserts": 6,
+            "celebrations": 1,
+            "custom cakes": 0
+        },
+        {
+            "Date": "Sep 24u2009u2013u200930, 2023",
+            "Timestamp": "1695513600",
+            "cake": 76,
+            "baking": 22,
+            "desserts": 6,
+            "celebrations": 1,
+            "custom cakes": 0
+        },
+        {
+            "Date": "Oct 1u2009u2013u20097, 2023",
+            "Timestamp": "1696118400",
+            "cake": 69,
+            "baking": 21,
+            "desserts": 6,
+            "celebrations": 1,
+            "custom cakes": 0
+        },
+        {
+            "Date": "Oct 8u2009u2013u200914, 2023",
+            "Timestamp": "1696723200",
+            "cake": 70,
+            "baking": 22,
+            "desserts": 6,
+            "celebrations": 1,
+            "custom cakes": 0
+        },
+        {
+            "Date": "Oct 15u2009u2013u200921, 2023",
+            "Timestamp": "1697328000",
+            "cake": 68,
+            "baking": 22,
+            "desserts": 6,
+            "celebrations": 1,
+            "custom cakes": 0
+        },
+        {
+            "Date": "Oct 22u2009u2013u200928, 2023",
+            "Timestamp": "1697932800",
+            "cake": 68,
+            "baking": 22,
+            "desserts": 6,
+            "celebrations": 1,
+            "custom cakes": 0
+        },
+        {
+            "Date": "Oct 29u2009u2013u2009Nov 4, 2023",
+            "Timestamp": "1698537600",
+            "cake": 65,
+            "baking": 22,
+            "desserts": 6,
+            "celebrations": 1,
+            "custom cakes": 0
+        },
+        {
+            "Date": "Nov 5u2009u2013u200911, 2023",
+            "Timestamp": "1699142400",
+            "cake": 69,
+            "baking": 24,
+            "desserts": 7,
+            "celebrations": 1,
+            "custom cakes": 0
+        },
+        {
+            "Date": "Nov 12u2009u2013u200918, 2023",
+            "Timestamp": "1699747200",
+            "cake": 77,
+            "baking": 26,
+            "desserts": 9,
+            "celebrations": 1,
+            "custom cakes": 0
+        },
+        {
+            "Date": "Nov 19u2009u2013u200925, 2023",
+            "Timestamp": "1700352000",
+            "cake": 100,
+            "baking": 40,
+            "desserts": 10,
+            "celebrations": 1,
+            "custom cakes": 0
+        },
+        {
+            "Date": "Nov 26u2009u2013u2009Dec 2, 2023",
+            "Timestamp": "1700956800",
+            "cake": 66,
+            "baking": 24,
+            "desserts": 6,
+            "celebrations": 1,
+            "custom cakes": 0
+        },
+        {
+            "Date": "Dec 3u2009u2013u20099, 2023",
+            "Timestamp": "1701561600",
+            "cake": 79,
+            "baking": 26,
+            "desserts": 7,
+            "celebrations": 1,
+            "custom cakes": 0
+        },
+        {
+            "Date": "Dec 10u2009u2013u200916, 2023",
+            "Timestamp": "1702166400",
+            "cake": 77,
+            "baking": 29,
+            "desserts": 8,
+            "celebrations": 2,
+            "custom cakes": 0
+        },
+        {
+            "Date": "Dec 17u2009u2013u200923, 2023",
+            "Timestamp": "1702771200",
+            "cake": 91,
+            "baking": 32,
+            "desserts": 10,
+            "celebrations": 1,
+            "custom cakes": 0
+        },
+        {
+            "Date": "Dec 24u2009u2013u200930, 2023",
+            "Timestamp": "1703376000",
+            "cake": 81,
+            "baking": 29,
+            "desserts": 6,
+            "celebrations": 1,
+            "custom cakes": 0
+        },
+        {
+            "Date": "Dec 31, 2023u2009u2013u2009Jan 6, 2024",
+            "Timestamp": "1703980800",
+            "cake": 72,
+            "baking": 24,
+            "desserts": 6,
+            "celebrations": 2,
+            "custom cakes": 0
+        },
+        {
+            "Date": "Jan 7u2009u2013u200913, 2024",
+            "Timestamp": "1704585600",
+            "cake": 72,
+            "baking": 22,
+            "desserts": 6,
+            "celebrations": 1,
+            "custom cakes": 1
+        },
+        {
+            "Date": "Jan 14u2009u2013u200920, 2024",
+            "Timestamp": "1705190400",
+            "cake": 75,
+            "baking": 24,
+            "desserts": 6,
+            "celebrations": 1,
+            "custom cakes": 1
+        },
+        {
+            "Date": "Jan 21u2009u2013u200927, 2024",
+            "Timestamp": "1705795200",
+            "cake": 80,
+            "baking": 22,
+            "desserts": 6,
+            "celebrations": 1,
+            "custom cakes": 1
+        },
+        {
+            "Date": "Jan 28u2009u2013u2009Feb 3, 2024",
+            "Timestamp": "1706400000",
+            "cake": 77,
+            "baking": 22,
+            "desserts": 6,
+            "celebrations": 1,
+            "custom cakes": 0
+        },
+        {
+            "Date": "Feb 4u2009u2013u200910, 2024",
+            "Timestamp": "1707004800",
+            "cake": 80,
+            "baking": 22,
+            "desserts": 7,
+            "celebrations": 1,
+            "custom cakes": 0
+        },
+        {
+            "Date": "Feb 11u2009u2013u200917, 2024",
+            "Timestamp": "1707609600",
+            "cake": 84,
+            "baking": 22,
+            "desserts": 7,
+            "celebrations": 1,
+            "custom cakes": 0
+        },
+        {
+            "Date": "Feb 18u2009u2013u200924, 2024",
+            "Timestamp": "1708214400",
+            "cake": 70,
+            "baking": 20,
+            "desserts": 6,
+            "celebrations": 1,
+            "custom cakes": 0
+        },
+        {
+            "Date": "Feb 25u2009u2013u2009Mar 2, 2024",
+            "Timestamp": "1708819200",
+            "cake": 67,
+            "baking": 19,
+            "desserts": 6,
+            "celebrations": 1,
+            "custom cakes": 0
+        },
+        {
+            "Date": "Mar 3u2009u2013u20099, 2024",
+            "Timestamp": "1709424000",
+            "cake": 70,
+            "baking": 19,
+            "desserts": 6,
+            "celebrations": 1,
+            "custom cakes": 0
+        },
+        {
+            "Date": "Mar 10u2009u2013u200916, 2024",
+            "Timestamp": "1710028800",
+            "cake": 69,
+            "baking": 20,
+            "desserts": 7,
+            "celebrations": 1,
+            "custom cakes": 0
+        },
+        {
+            "Date": "Mar 17u2009u2013u200923, 2024",
+            "Timestamp": "1710633600",
+            "cake": 72,
+            "baking": 20,
+            "desserts": 7,
+            "celebrations": 1,
+            "custom cakes": 0
+        },
+        {
+            "Date": "Mar 24u2009u2013u200930, 2024",
+            "Timestamp": "1711238400",
+            "cake": 91,
+            "baking": 23,
+            "desserts": 9,
+            "celebrations": 1,
+            "custom cakes": 0
+        },
+        {
+            "Date": "Mar 31u2009u2013u2009Apr 6, 2024",
+            "Timestamp": "1711843200",
+            "cake": 73,
+            "baking": 20,
+            "desserts": 6,
+            "celebrations": 1,
+            "custom cakes": 1
+        },
+        {
+            "Date": "Apr 7u2009u2013u200913, 2024",
+            "Timestamp": "1712448000",
+            "cake": 67,
+            "baking": 18,
+            "desserts": 5,
+            "celebrations": 1,
+            "custom cakes": 1
+        },
+        {
+            "Date": "Apr 14u2009u2013u200920, 2024",
+            "Timestamp": "1713052800",
+            "cake": 72,
+            "baking": 18,
+            "desserts": 6,
+            "celebrations": 1,
+            "custom cakes": 1
+        },
+        {
+            "Date": "Apr 21u2009u2013u200927, 2024",
+            "Timestamp": "1713657600",
+            "cake": 73,
+            "baking": 20,
+            "desserts": 6,
+            "celebrations": 1,
+            "custom cakes": 1
+        },
+        {
+            "Date": "Apr 28u2009u2013u2009May 4, 2024",
+            "Timestamp": "1714262400",
+            "cake": 71,
+            "baking": 19,
+            "desserts": 6,
+            "celebrations": 1,
+            "custom cakes": 1
+        },
+        {
+            "Date": "May 5u2009u2013u200911, 2024",
+            "Timestamp": "1714867200",
+            "cake": 76,
+            "baking": 20,
+            "desserts": 7,
+            "celebrations": 1,
+            "custom cakes": 1
+        },
+        {
+            "Date": "May 12u2009u2013u200918, 2024",
+            "Timestamp": "1715472000",
+            "cake": 72,
+            "baking": 19,
+            "desserts": 6,
+            "celebrations": 1,
+            "custom cakes": 1
+        },
+        {
+            "Date": "May 19u2009u2013u200925, 2024",
+            "Timestamp": "1716076800",
+            "cake": 72,
+            "baking": 19,
+            "desserts": 6,
+            "celebrations": 1,
+            "custom cakes": 1
+        },
+        {
+            "Date": "May 26u2009u2013u2009Jun 1, 2024",
+            "Timestamp": "1716681600",
+            "cake": 74,
+            "baking": 21,
+            "desserts": 6,
+            "celebrations": 1,
+            "custom cakes": 1
+        },
+        {
+            "Date": "Jun 2u2009u2013u20098, 2024",
+            "Timestamp": "1717286400",
+            "cake": 67,
+            "baking": 21,
+            "desserts": 6,
+            "celebrations": 1,
+            "custom cakes": 1
+        },
+        {
+            "Date": "Jun 9u2009u2013u200915, 2024",
+            "Timestamp": "1717891200",
+            "cake": 69,
+            "baking": 19,
+            "desserts": 6,
+            "celebrations": 1,
+            "custom cakes": 1
+        },
+        {
+            "Date": "Jun 16u2009u2013u200922, 2024",
+            "Timestamp": "1718496000",
+            "cake": 71,
+            "baking": 19,
+            "desserts": 6,
+            "celebrations": 1,
+            "custom cakes": 0
+        },
+        {
+            "Date": "Jun 23u2009u2013u200929, 2024",
+            "Timestamp": "1719100800",
+            "cake": 68,
+            "baking": 19,
+            "desserts": 6,
+            "celebrations": 1,
+            "custom cakes": 1
+        },
+        {
+            "Date": "Jun 30u2009u2013u2009Jul 6, 2024",
+            "Timestamp": "1719705600",
+            "cake": 78,
+            "baking": 21,
+            "desserts": 9,
+            "celebrations": 2,
+            "custom cakes": 0
+        },
+        {
+            "Date": "Jul 7u2009u2013u200913, 2024",
+            "Timestamp": "1720310400",
+            "cake": 68,
+            "baking": 20,
+            "desserts": 5,
+            "celebrations": 1,
+            "custom cakes": 1
+        },
+        {
+            "Date": "Jul 14u2009u2013u200920, 2024",
+            "Timestamp": "1720915200",
+            "cake": 69,
+            "baking": 19,
+            "desserts": 6,
+            "celebrations": 1,
+            "custom cakes": 1
+        },
+        {
+            "Date": "Jul 21u2009u2013u200927, 2024",
+            "Timestamp": "1721520000",
+            "cake": 66,
+            "baking": 19,
+            "desserts": 6,
+            "celebrations": 1,
+            "custom cakes": 1
+        },
+        {
+            "Date": "Jul 28u2009u2013u2009Aug 3, 2024",
+            "Timestamp": "1722124800",
+            "cake": 65,
+            "baking": 19,
+            "desserts": 5,
+            "celebrations": 1,
+            "custom cakes": 1
+        },
+        {
+            "Date": "Aug 4u2009u2013u200910, 2024",
+            "Timestamp": "1722729600",
+            "cake": 68,
+            "baking": 19,
+            "desserts": 6,
+            "celebrations": 1,
+            "custom cakes": 1
+        },
+        {
+            "Date": "Aug 11u2009u2013u200917, 2024",
+            "Timestamp": "1723334400",
+            "cake": 69,
+            "baking": 20,
+            "desserts": 6,
+            "celebrations": 1,
+            "custom cakes": 1
+        }
+    ],
+    "RelatedQueries": [
+        {
+            "Query": "single mom birthday cake ex husband",
+            "Extracted Value": 10700,
+            "Type": "rising"
+        },
+        {
+            "Query": "nanalan cake",
+            "Extracted Value": 6100,
+            "Type": "rising"
+        },
+        {
+            "Query": "cake resume quiz",
+            "Extracted Value": 4100,
+            "Type": "rising"
+        },
+        {
+            "Query": "black cake hulu",
+            "Extracted Value": 2200,
+            "Type": "rising"
+        },
+        {
+            "Query": "fionna y cake",
+            "Extracted Value": 2150,
+            "Type": "rising"
+        },
+        {
+            "Query": "fionna and cake season 2",
+            "Extracted Value": 2100,
+            "Type": "rising"
+        },
+        {
+            "Query": "sitting in bars with cake",
+            "Extracted Value": 1550,
+            "Type": "rising"
+        },
+        {
+            "Query": "fionna and cake",
+            "Extracted Value": 1300,
+            "Type": "rising"
+        },
+        {
+            "Query": "punjab girl birthday cake death",
+            "Extracted Value": 1300,
+            "Type": "rising"
+        },
+        {
+            "Query": "fiona and cake",
+            "Extracted Value": 1000,
+            "Type": "rising"
+        },
+        {
+            "Query": "adventure time fionna and cake",
+            "Extracted Value": 850,
+            "Type": "rising"
+        },
+        {
+            "Query": "black cake cast",
+            "Extracted Value": 800,
+            "Type": "rising"
+        },
+        {
+            "Query": "neil patrick harris amy winehouse cake",
+            "Extracted Value": 650,
+            "Type": "rising"
+        },
+        {
+            "Query": "adventure time",
+            "Extracted Value": 550,
+            "Type": "rising"
+        },
+        {
+            "Query": "black cake show",
+            "Extracted Value": 550,
+            "Type": "rising"
+        },
+        {
+            "Query": "cake resume",
+            "Extracted Value": 300,
+            "Type": "rising"
+        },
+        {
+            "Query": "lardy cake",
+            "Extracted Value": 160,
+            "Type": "rising"
+        },
+        {
+            "Query": "neil patrick harris cake",
+            "Extracted Value": 80,
+            "Type": "rising"
+        },
+        {
+            "Query": "let them eat cake",
+            "Extracted Value": 50,
+            "Type": "rising"
+        },
+        {
+            "Query": "matilda cake",
+            "Extracted Value": 50,
+            "Type": "rising"
+        },
+        {
+            "Query": "vintage cake",
+            "Extracted Value": 50,
+            "Type": "rising"
+        },
+        {
+            "Query": "bluey cake",
+            "Extracted Value": 50,
+            "Type": "rising"
+        },
+        {
+            "Query": "dream cake",
+            "Extracted Value": 40,
+            "Type": "rising"
+        },
+        {
+            "Query": "cake birthday",
+            "Extracted Value": 100,
+            "Type": "top"
+        },
+        {
+            "Query": "cake recipe",
+            "Extracted Value": 93,
+            "Type": "top"
+        },
+        {
+            "Query": "chocolate cake",
+            "Extracted Value": 66,
+            "Type": "top"
+        },
+        {
+            "Query": "chocolate",
+            "Extracted Value": 65,
+            "Type": "top"
+        },
+        {
+            "Query": "cake design",
+            "Extracted Value": 36,
+            "Type": "top"
+        },
+        {
+            "Query": "cake near me",
+            "Extracted Value": 32,
+            "Type": "top"
+        },
+        {
+            "Query": "cake shop",
+            "Extracted Value": 27,
+            "Type": "top"
+        },
+        {
+            "Query": "cakes",
+            "Extracted Value": 27,
+            "Type": "top"
+        },
+        {
+            "Query": "cake mix",
+            "Extracted Value": 27,
+            "Type": "top"
+        },
+        {
+            "Query": "carrot cake",
+            "Extracted Value": 24,
+            "Type": "top"
+        },
+        {
+            "Query": "cheese cake",
+            "Extracted Value": 21,
+            "Type": "top"
+        },
+        {
+            "Query": "lemon cake",
+            "Extracted Value": 19,
+            "Type": "top"
+        },
+        {
+            "Query": "cake ideas",
+            "Extracted Value": 19,
+            "Type": "top"
+        },
+        {
+            "Query": "bundt cake",
+            "Extracted Value": 19,
+            "Type": "top"
+        },
+        {
+            "Query": "wedding cake",
+            "Extracted Value": 17,
+            "Type": "top"
+        },
+        {
+            "Query": "cake topper",
+            "Extracted Value": 17,
+            "Type": "top"
+        },
+        {
+            "Query": "black cake",
+            "Extracted Value": 16,
+            "Type": "top"
+        },
+        {
+            "Query": "ice cream cake",
+            "Extracted Value": 15,
+            "Type": "top"
+        },
+        {
+            "Query": "cake recipes",
+            "Extracted Value": 15,
+            "Type": "top"
+        },
+        {
+            "Query": "cake box",
+            "Extracted Value": 15,
+            "Type": "top"
+        },
+        {
+            "Query": "white cake",
+            "Extracted Value": 14,
+            "Type": "top"
+        },
+        {
+            "Query": "pound cake",
+            "Extracted Value": 14,
+            "Type": "top"
+        },
+        {
+            "Query": "chocolate cake recipe",
+            "Extracted Value": 13,
+            "Type": "top"
+        },
+        {
+            "Query": "strawberry cake",
+            "Extracted Value": 13,
+            "Type": "top"
+        },
+        {
+            "Query": "mug cake",
+            "Extracted Value": 13,
+            "Type": "top"
+        }
+    ],
+    "YouTubeSearch": [
+        {
+            "Title": "Wolfacejoeyy - cake (Official Video)",
+            "Views": 6689223,
+            "Published Date": "6 months ago",
+            "Description": "Directed by Tycho Burwell Key Grip - Massimo Cancelliere Art Direction - WhiteCollarWill Producers - Tycho Burwell, Jacob Kohn..."
+        },
+        {
+            "Title": "Miniature Rainbow Chocolate Cake Decorating 🎂 Amazing Rainbow KitKat Cake Decorating By Baking Yummy",
+            "Views": 404154,
+            "Published Date": "Streamed 2 weeks ago",
+            "Description": "Miniature Rainbow Chocolate Cake Decorating Amazing Rainbow KitKat Cake Decorating By Baking Yummy SUBSCRIBE..."
+        },
+        {
+            "Title": "These CAKE Artists Are At Another Level ▶️ 19",
+            "Views": 903743,
+            "Published Date": "3 weeks ago",
+            "Description": "Hey cake lovers! In this video, we're showcasing bakers who take cake creativity to the next level. And if you end up drooling,..."
+        },
+        {
+            "Title": "Top 100 Oddly Satisfying Cake Decorating Compilation | Awesome Cake Decorating Ideas #9",
+            "Views": 1088612,
+            "Published Date": "4 months ago",
+            "Description": "▼ Contact: Contact@rubycakeplus.net ▼ Thank for watching! Don't forget to turn on notifications, like, & subscribe!"
+        },
+        {
+            "Title": "REAL OR CAKE? How many did you guess correctly?",
+            "Views": 13715432,
+            "Published Date": "3 months ago",
+            "Description": "Cake avocado or. Cake ice cream or. Cake beanie or. Cake milk or. Cake onion or. Cake corn or cake how many did you guess..."
+        },
+        {
+            "Title": "My Favorite Chocolate Cake Recipes For Weekend |  Perfect Melted Chocolate Cake Decorating Ideas",
+            "Views": 83715,
+            "Published Date": "4 months ago",
+            "Description": "My Favorite Chocolate Cake Recipes For Weekend | Perfect Melted Chocolate Cake Decorating Ideas Question of the day: Have..."
+        },
+        {
+            "Title": "Taylor Swift Reputation Cake 🔥",
+            "Views": 19493542,
+            "Published Date": "6 months ago",
+            "Description": ""
+        },
+        {
+            "Title": "Wednesday Addams cake vs orange juice ice cream challenge!🍨#wednesday #funny by Ethan Funny Family",
+            "Views": 52211653,
+            "Published Date": "2 months ago",
+            "Description": ""
+        },
+        {
+            "Title": "The Viral Cake on Heart Shape Cake ❤️🔥|Cake Design😍 #shortsfeed #viral #cake #shorts",
+            "Views": 17645632,
+            "Published Date": "1 month ago",
+            "Description": "The Viral Cake ❤️  |Cake Design   #shortsfeed #viral #cake #shorts #youtubeshorts #cakedecorationideas #cakedecoration..."
+        },
+        {
+            "Title": "I made the Blank Space Cake",
+            "Views": 87926223,
+            "Published Date": "7 months ago",
+            "Description": ""
+        },
+        {
+            "Title": "CAKE or REAL Challenge!",
+            "Views": 11096354,
+            "Published Date": "3 months ago",
+            "Description": "The boys compete in the most impossible Cake VS Real challenge! BEN AZELART: @BenAzelart CAM HUFF: @CamHuff NEW..."
+        },
+        {
+            "Title": "🎂 1000+ Satisfying COLORFUL Cake Decorating Ideas | So Yummy Chocolate Cake Tutorials | So Yummy",
+            "Views": 1008131,
+            "Published Date": "Streamed 1 month ago",
+            "Description": "Story of the day: Which the cake do you want to make in this video? ▼ Subscribe Here: http://www.youtube.com/c/TastyPlus..."
+        },
+        {
+            "Title": "Top 1000+ Easy & Perfect Cake Decorating Tutorials | So Yummy Cake Decorating Compilation",
+            "Views": 32113,
+            "Published Date": "Streamed 3 days ago",
+            "Description": "▼ Welcome to the Tasty Plus Official YouTube channel! Tasty Plus brings you fun food ideas and recipes for your cooking and..."
+        },
+        {
+            "Title": "Creative HEART Cake Decorating Recipes | So Yummy Cake Tutorials | Perfect Cake Ideas",
+            "Views": 48117,
+            "Published Date": "3 weeks ago",
+            "Description": "▼ Question of the day: Do you like heart cake? ▼ All content is exclusively owned and created by YumUp CO.,LTD. For any..."
+        },
+        {
+            "Title": "Making Hyper Realistic 3D Cake Recipes | Homemade Colorful Cake Decorating Idea",
+            "Views": 218948,
+            "Published Date": "3 months ago",
+            "Description": "Making Hyper Realistic 3D Cake Recipes | Homemade Colorful Cake Decorating Idea u25bd Contact: Yum-Up produces all contentu00a0..."
+        },
+        {
+            "Title": "5 Hour Relaxing u23f0 Most Satisfying Cake Decorating Compilation | So Yummy Colorful Cake Tutorials",
+            "Views": 1780792,
+            "Published Date": "Streamed 4 months ago",
+            "Description": "5 Hour Relaxing u23f0 Most Satisfying Cake Decorating Compilation | So Yummy Colorful Cake Tutorials u25bd Subscribe Here:u00a0..."
+        },
+        {
+            "Title": "ud83cudf08 100+ Satisfying RAINBOW Cake Decorating Ideas | Amazing Chocolate Cake Decorating Compilation",
+            "Views": 1240040,
+            "Published Date": "Streamed 1 month ago",
+            "Description": "Story of the day: Which the cake do you want to make in this video? u25bd Subscribe Here: http://www.youtube.com/c/TastyPlusu00a0..."
+        },
+        {
+            "Title": "Delicious & Fresh Watermelon Cake Recipes ud83cudf49So Yummy Chocolate Cake & Dessert Recipes",
+            "Views": 43731,
+            "Published Date": "4 weeks ago",
+            "Description": "u25adu25adu25adu25adu25adu25adu25adu25adu25adu25adu25adu25adu25adu25adu25adu25adu25adu25adu25adu25adu25adu25adu25adu25adu25adu25adu25adu25adu25adu25adu25adu25ad u25bd About So Tasty: We bring you easy how-to videosu00a0..."
+        },
+        {
+            "Title": "ud83dude03ud83eudd23ruthika birthday ku anniiyu naanum serndhu cake senjachuu..#shorts #trending #minivlog #viralvideo",
+            "Views": 8245055,
+            "Published Date": "7 days ago",
+            "Description": ""
+        },
+        {
+            "Title": "Fun and Creative Tasty Chocolate Cake Recipes | Satisfying GALAXY Cake Decorating Tutorial",
+            "Views": 136270,
+            "Published Date": "4 months ago",
+            "Description": "Fun and Creative Tasty Chocolate Cake Recipes | Satisfying GALAXY Cake Decorating Tutorial Question of the day: Do you loveu00a0..."
+        }
+    ],
+    "ShoppingResults": [
+        {
+            "Title": "Pepperidge Farm Classic Coconut Layer Cake",
+            "Price": "$4.41",
+            "Rating": 4.3,
+            "Reviews": 487,
+            "Source": "H-E-B"
+        },
+        {
+            "Title": "Birthday Cake & Chocolate Strawberries Delivery",
+            "Price": "$64.99",
+            "Rating": "",
+            "Reviews": "",
+            "Source": "Shari's Berries"
+        },
+        {
+            "Title": "Magnolia Bakery Nationwide Confetti Cake",
+            "Price": "$59.00",
+            "Rating": "",
+            "Reviews": "",
+            "Source": "Magnolia Bakery"
+        },
+        {
+            "Title": "Parisian Cake Round - Chocolate Cake To Deliver - Cake to Order| Cookies, Cakes & Pastry Delivery | Porto's Online Bakery",
+            "Price": "$44.99",
+            "Rating": 5.0,
+            "Reviews": 18,
+            "Source": "Porto's Bake at Home"
+        },
+        {
+            "Title": "Gambino's Bakery Chocolate Drip Birthday Cake",
+            "Price": "$46.00",
+            "Rating": "",
+            "Reviews": "",
+            "Source": "Gambino's Bakery"
+        },
+        {
+            "Title": "Harry & David Hummingbird Cake",
+            "Price": "$69.99",
+            "Rating": 4.2,
+            "Reviews": 66,
+            "Source": "Harry & David"
+        },
+        {
+            "Title": "We Take The Cake Birthday Celebration Golden Butter Layer Cake",
+            "Price": "$89.95",
+            "Rating": 4.7,
+            "Reviews": 6,
+            "Source": "Goldbelly"
+        },
+        {
+            "Title": "Carlo's Bakery Rainbow Cake",
+            "Price": "$44.95",
+            "Rating": "",
+            "Reviews": "",
+            "Source": "Carlo's Bakery"
+        },
+        {
+            "Title": "H-E-B Bakery Strawberry Cream Cake",
+            "Price": "$9.34",
+            "Rating": "",
+            "Reviews": "",
+            "Source": "H-E-B"
+        },
+        {
+            "Title": "Vintage Heart Cake | Choose Your Color",
+            "Price": "$199.00",
+            "Rating": 5.0,
+            "Reviews": 5,
+            "Source": "Sweet E's Bake Shop"
+        },
+        {
+            "Title": "Chocolate Truffle Cake",
+            "Price": "$55.00",
+            "Rating": "",
+            "Reviews": "",
+            "Source": "Bake Me A Wish!"
+        },
+        {
+            "Title": "Shari's Berries Chocolate Celebration Cake",
+            "Price": "$49.99",
+            "Rating": "",
+            "Reviews": "",
+            "Source": "Shari's Berries"
+        },
+        {
+            "Title": "Williams Sonoma Floral Cake",
+            "Price": "$89.95",
+            "Rating": "",
+            "Reviews": "",
+            "Source": "Williams-Sonoma"
+        },
+        {
+            "Title": "Daisy Cakes Daisy's Chocolate Cake",
+            "Price": "$69.95",
+            "Rating": "",
+            "Reviews": "",
+            "Source": "Daisy Cakes"
+        },
+        {
+            "Title": "Magnolia Bakery Nationwide Chocolate Cake",
+            "Price": "$54.00",
+            "Rating": "",
+            "Reviews": "",
+            "Source": "Magnolia Bakery"
+        },
+        {
+            "Title": "Caroline's Cakes 7-Layer Caramel Cake",
+            "Price": "$70.00",
+            "Rating": "",
+            "Reviews": "",
+            "Source": "Caroline's Cakes"
+        },
+        {
+            "Title": "Betty Crocker French Vanilla Super Moist Cake Mix",
+            "Price": "$1.58",
+            "Rating": 4.7,
+            "Reviews": 1500,
+            "Source": "Walmart"
+        },
+        {
+            "Title": "We Take the Cake Pink Rose Chocolate Cake",
+            "Price": "$89.95",
+            "Rating": 4.5,
+            "Reviews": 25,
+            "Source": "Goldbelly"
+        },
+        {
+            "Title": "Red Velvet Standard Cake",
+            "Price": "$33.00",
+            "Rating": 4.9,
+            "Reviews": 81,
+            "Source": "Patty's Cakes and Desserts"
+        },
+        {
+            "Title": "H-E-B Bakery Fresh Strawberry White Cake 1/8 Bar",
+            "Price": "$20.78",
+            "Rating": "",
+            "Reviews": "",
+            "Source": "H-E-B"
+        },
+        {
+            "Title": "Carousel Cakes - Oprah's Favorite Red Velvet Layer Cake - Food Gifts",
+            "Price": "$59.95",
+            "Rating": "",
+            "Reviews": "",
+            "Source": "Goldbelly"
+        },
+        {
+            "Title": "Caroline's Cakes Our Pink Champagne Cake",
+            "Price": "$70.00",
+            "Rating": "",
+            "Reviews": "",
+            "Source": "Caroline's Cakes"
+        },
+        {
+            "Title": "COOKIES & CREAM CAKE 6 INCH CAKE",
+            "Price": "$99.00",
+            "Rating": "",
+            "Reviews": "",
+            "Source": "Posh Pop Bakeshop"
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: trend-maker-backend
+    env: python
+    buildCommand: "pip install -r requirements.txt" # Global installation
+    startCommand: "uvicorn src.api.main:app --host 0.0.0.0 --port $PORT" # Your backend entry point
+
+  - type: worker
+    name: scheduler
+    env: python
+    startCommand: "python scheduler.py" # Running the scheduler
