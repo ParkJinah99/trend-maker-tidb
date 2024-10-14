@@ -5,7 +5,7 @@
 
 **Slogan:** *Search, Analyze, and Outpace the Trend.*
 
-**Link to the application: ** https://trend-maker-frontend.onrender.com/ 
+**Link to the application:** https://trend-maker-frontend.onrender.com/ 
 The application is deployed on Render with free tier, thus requires a few minute to load. 
 
 ## Features
